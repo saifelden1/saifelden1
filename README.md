@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Saif Elden 👋
 
-<!--
-**saifelden1/saifelden1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Mechatronics Engineer** focused on building practical systems across hardware, embedded software, robotics, and industrial automation.
 
-Here are some ideas to get you started:
+### 🚀 What I Work On
+- **Hardware Design** with **KiCad**
+- **Embedded Systems** with **STM32**, **ESP32**, and **ESP-IDF**
+- **Robotics** with **ROS 2**
+- **Industrial Automation** with **Siemens TIA Portal**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Core Interests
+- Smart embedded products
+- Robotics integration
+- Reliable automation systems
+
+### 🤝 Collaboration
+I’m open to collaborating on projects in embedded systems, robotics, and automation engineering.
